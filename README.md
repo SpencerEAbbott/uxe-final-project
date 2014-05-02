@@ -20,7 +20,7 @@ There were several things I wanted to make sure I implemented on the page. Here 
 How to view my project
 -----------------------
 
-To view the site, clone this repo to your desktop. I encourage you to do two things evaluating:
+To view the site, clone this repo to your desktop. I encourage you to do two things while evaluating
 1. A/B my site compared to the jpeg example[ was instructed to replicate](https://raw.githubusercontent.com/SpencerEAbbott/uxe-final-project/master/Example-Site-To-Replicate.jpg "Here is the image we were told to replicate").
 2. Review my code on github. 
 
